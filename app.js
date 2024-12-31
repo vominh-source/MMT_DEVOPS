@@ -8,7 +8,7 @@ const path = require('path');
 const app = express();
 
 // Define port
-const port = 2000;
+const port = 3000;
 
 // Import userRoute
 const userRoute = require('./routes/userRoute');
